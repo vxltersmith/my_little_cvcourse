@@ -2,6 +2,14 @@
 
 This repository contains a series of lessons on PyTorch, covering basic tensor operations, data handling, distributed training, and model export. Each lesson is contained in its own Python file.
 
+## Requirements
+
+To run the code in this repository, you need to have the following Python packages installed:
+
+```bash
+pip install torch torchvision pandas pillow tqdm
+```
+
 ## Table of Contents
 
 1. [Lesson 1: Basic Tensor Operations](#lesson-1-basic-tensor-operations)
@@ -73,14 +81,6 @@ This lesson demonstrates how to define, train, and export a simple neural networ
 ### How to Run:
 ```bash
 python lesson4_simplenn.py
-```
-
-## Requirements
-
-To run the code in this repository, you need to have the following Python packages installed:
-
-```bash
-pip install torch torchvision pandas pillow tqdm
 ```
 
 ## License
