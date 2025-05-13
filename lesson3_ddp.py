@@ -49,6 +49,7 @@ def train(rank, world_size):
             nn.Linear(256, 10)
     ).cuda()
 
+    # Передаем модель в distributed data parallel
     if is_distributed_run:
         model = DDP(model, device_ids=[rank])
     

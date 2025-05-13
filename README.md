@@ -106,3 +106,6 @@ For any questions or feedback, please contact [ai.inc.inc@gmail.com](mailto:ai.i
 6. **Contact**: Provides a way to contact the maintainer for questions or feedback.
 
 This README file should help users understand the purpose of each lesson, how to run the code, and how to contribute to the project.
+
+# my_little_cvcourse
+Yet another introduction to deep CV with pytorch
