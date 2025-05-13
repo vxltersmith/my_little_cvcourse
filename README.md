@@ -2,12 +2,23 @@
 
 This repository contains a series of lessons on PyTorch, covering basic tensor operations, data handling, distributed training, and model export. Each lesson is contained in its own Python file.
 
-## Requirements
+## How to start
+
+First, clone repository:
+
+```bash
+git clone https://github.com/vxltersmith/my_little_cvcourse.git
+```
 
 To run the code in this repository, you need to have the following Python packages installed:
 
 ```bash
 pip install torch torchvision pandas pillow tqdm
+```
+Or simply run following:
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## Table of Contents
